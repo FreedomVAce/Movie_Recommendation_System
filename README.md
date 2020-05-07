@@ -21,9 +21,11 @@ Dataset Credit: Rounak Banik
 ## Tools and Packages that I used for this project:
 
 #### Modeling/Machine Learning
-* Scikit-learn - Suprise
+* Scikit-learn - Surprise
 * Numpy
+* NLTK
 * Pandas
+* Statistics
 
 #### Data visualization:
 * Matplotlib
