@@ -35,4 +35,4 @@ Dataset Credit: Rounak Banik
 * 2 weeks  
 
 Feedback is always welcome ~~~ <br>
-LinkedIn: https://www.linkedin.com/in/austin-yu-a6a26419b/
+LinkedIn: https://www.linkedin.com/in/austinykw/
